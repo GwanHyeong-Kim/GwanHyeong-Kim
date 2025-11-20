@@ -1,119 +1,75 @@
-<!-- Header Image (Optional, you can replace with your own image URL) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=GwanHyeong-Kim&fontColor=ffffff&color=0:4285F4,100:0F9D58&fontAlignY=35" />
-</p>
+# 👋 안녕하세요, ISP 펌웨어 개발자입니다!
 
-# 👋 안녕하세요, GwanHyeong-Kim입니다!
+## 🏅 Intel Edge AI Academy 최우수 수료
 
-FPGA · Embedded System · Material Modeling · Nursing Informatics까지  
-멀티트랙으로 성장하고 있는 **엔지니어 & 대학원생**입니다.
-
-현재는  
-- 🔧 **FPGA/SoC 설계 및 검증(UVM)**  
-- 🧪 **고무/탄성체 하이퍼탄성–점탄성 모델링(Abaqus)**  
-- 🏥 **환자안전·의사소통 분야 대학원 연구**  
-- 🤖 **임베디드 시스템 + 센서 기반 의료·자동차 응용 프로젝트**  
-
-등 다양한 분야를 융합하여 개발하고 있습니다.
+- 🚗 최근에는 차량 주변 운전 행태를 인식하는 AI 시스템을 개발했어요.  
+- 🛠️ 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.
 
 ---
 
-## 🚀 주요 기술 스택
-
-### **💻 Digital & Embedded System**
-- Verilog / SystemVerilog / UVM  
-- Vivado · Vitis · Synopsys DC/PT  
-- Zynq · MicroBlaze · APB · AXI4-Lite  
-- UART · SPI · I2C 설계 및 검증  
-- GPIO · Timer · ADC(MCP3008) 센서 연동  
-- Logic Analyzer 기반 디버깅
-
-### **🧪 Simulation & Material Modeling**
-- Abaqus Explicit/Implicit  
-- Hyperelastic (Ogden · Yeoh · Neo-Hookean)  
-- Viscoelastic (Prony series, fractional)  
-- Mullins / Payne effect  
-- Overlay model for bushings  
-- Python/Matlab 기반 material fitting 자동화
-
-### **🏥 Nursing Graduate Research**
-- 환자 안전 문화  
-- 간호사 의사소통 개선  
-- Bioethical dilemma 정성 분석  
-- Telemedicine monitoring 연구
+- 🏢 현재 넥스트칩 ISP SW 개발 연구원으로 재직 중.  
+- 🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP  
+- 📫 How to reach me: **garamsong95@gmail.com**
 
 ---
 
-## 📚 대표 프로젝트
+# 🚀 주요 프로젝트
 
-### **🧩 1. FPGA · SoC Design**
-- **I2C Master/Slave 설계 + MicroBlaze 연동**
-- **SPI Master/Slave + UVM 환경 구축**
-- **APB Manager 설계 및 LED/FND Controller 개발**
-- 28×28 CNN 기반 하드웨어 inference 구조 설계
-- MBISR(Memory Built-In Self-Repair) FSM 설계
-- SDF 기반 STA–Simulation 연동 실습
+### 🚗 **차량 AI 프로젝트:**
+- 🥇 **Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**  
+  YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송  
+  👉 (여기에 GitHub 링크 넣고 싶으면 이렇게)  
+  **🔗 [프로젝트 보러가기](https://github.com/사용할_링크)**
 
 ---
 
-### **⚙️ 2. Material Modeling / Abaqus**
-- TPEE / NR 기반 **고무 부싱 동강성 모델링**
-- Y-direction static & dynamic stiffness fitting
-- Mullins effect 기반 cyclic softening 재현
-- Ogden + Viscoelastic + Overlay model 구성
-- Python fitting 자동화 코드(v1~v6) 개발
+### 🗑️ **페스터카드:**
+터틀봇 + 꽃신나라 + 안드로이드 앱 + QT 앱을 활용한 **무인 벌레 퇴치 시스템**
 
 ---
 
-### **🤖 3. Embedded / Hardware System**
-- **라인트레이싱 + 장애물 회피 FPGA 자동차**
-- Arduino 센서 + FPGA + Bluetooth + Python GUI 통신
-- MCP3008 ADC 통해 조도센서 threshold 기반 LED 제어
-- PWM 기반 모터 제어 시스템 설계
+### 🏧 **터치터치 ATM:**
+라즈베리파이 기반의 터치 인터페이스 ATM
 
 ---
 
-### **📊 4. Nursing Graduate School**
-- ‘경력 간호사의 윤리적 딜레마와 환자안전문화’
-- ‘의사소통 오류 기반 RCA 개선 활동’
-- ‘미나리 영화 기반 의사소통 분석 보고서’
-- ‘통증관리 current issue 분석 (마약성 진통제 오남용 등)’
+### 📦 **무인 택배 보관함 시스템:**
+센서 + 아두이노 + STM32F411RE + 라즈베리파이4 기반의  
+택배 수령/알림이 가능한 무인보관함
 
 ---
 
-## 🛠️ 현재 진행 중
-
-- 🔬 **고무 부싱 스웨이징 공정 해석 개발**  
-- 🧮 **2024 논문 기반 Mullins + VE 모델 MATLAB 구현**  
-- 🧑‍🏫 **UVM 기반 I2C/SPI Verification lecture-style 정리**  
-- 📡 **Bluetooth ↔ FPGA ↔ Python GUI 제어 시스템 개발**  
-- 🤰 **Healthcare + Engineering 융합 연구 방향 탐색**
+### 🔍 **스마트 펫토리:**
+MobileNetV3로 O/X 판별 및 컬러 감지, 공정 이상 자동화 감지 시스템
 
 ---
 
-## ✨ Problem–Solving Style
-- ⚡ 복잡한 시스템을 빠르게 구조화  
-- 📐 실험·데이터 기반 정량 분석 선호  
-- 🔍 보고서·PPT·코드 자동화 스크립트 적극 활용  
-- 💬 논리적 설명 + 직관적 시각 자료 제작  
-- 🔄 빠른 시행착오 기반 개선
+### 🎯 **YOLO Detect:**
+YOLO 기반 영상 객체 탐지 및 경고 시스템 구현  
+🔗 [프로젝트 링크](https://github.com/사용할_링크)
 
 ---
 
-## 📬 Contact
-- **Email**: gwanhyeongkim@gmail.com  
-- **GitHub**: [https://github.com/GwanHyeong-Kim](https://github.com/GwanHyeong-Kim)
+### 🐸 **황소개구리 게임:**
+Cortex-M3 기반의 STM32F 보드와 C++ 기반  
+도트 감성 황소개구리 생존 게임
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GwanHyeong-Kim&show_icons=true&theme=swift" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GwanHyeong-Kim&layout=compact&theme=swift" height="170"/>
-</p>
+### 🐭 **스마트 핸디팬:**
+Cortex-M3 mini 기반 온습도 센서 + 모터 제어를 활용한  
+자동 스마트 핸디팬 제작
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b><br>
-  <sub>Engineering × Nursing × Research = 새로운 가치를 만드는 멀티트랙 개발자</sub>
-</p>
+---
+
+# 🛠️ 기술 스택
+
+### **프로그래밍 언어**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### **Embedded / Firmware**
+![Linux Embedded](https:/)
